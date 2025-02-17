@@ -1,4 +1,4 @@
-The main goal of the project
+The main goal of the project <br>
 The final manuscript name, year it was published, Pub Med ID (if applicable)
 Graphical abstract (if needed for publication)
 Names and brief descriptions of each file
