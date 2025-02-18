@@ -1,8 +1,17 @@
-The main goal of the project <br>
-The final manuscript name, year it was published, Pub Med ID (if applicable)
-Graphical abstract (if needed for publication)
-Names and brief descriptions of each file
-Include both the goal of the analysis and the methodology used (ie. Using chi square tests to determine if there are statistically significant differences across demographic groups)
-If the code was written in the software Jupyter (ie. has the extension .ipynb not .R or .Rmd), NBViewer is a website that can render jupyter notebooks (files). This is helpful, because sometimes the files take too long to render, so link the repository from the NB viewer website.
-Go to nbviewer.org –> type in the name of the repository –> copy the url and add it to the README.md file
+**Monoamine Oxidase A (MAO-A)** is an enzyme that breaks down neurotransmitters such as serotonin, dopamine, and norepinephrine by catalyzing their oxidative deamination. It plays a crucial role in regulating mood and emotional responses. MAO-A inhibitors are used in some antidepressant and neuropsychiatric treatments. <br>  
+
+## **Project Goal** <br>  
+The main goal of this project is to evaluate the chemical structures of MAO-A targeting drugs and their functionality. <br>  
+
+## **Project Breakdown** <br>  
+
+### **Part 1: MAO_CDD_ML_Part_1_bioactivity_data.ipynb** <br>  
+- **Downloaded and preprocessed** raw bioactivity data from ChEMBL. <br>  
+- **Categorized compounds** as **"active," "inactive," or "intermediate"** based on IC50 values. <br>  
+
+### **Part 2: MAO_CDD_ML_Part_2_Exploratory_Data_Analysis_pynb.ipynb** <br>  
+- **Conducted ADME analysis** (Absorption, Distribution, Metabolism, Excretion) using the RDKit toolkit by **Calculating Lipinski descriptors and pIC50 values** to compare and evaluate the pharmacokinetic properties of active and inactive MAO-A targeting drugs. <br>  
+- **Used the Mann-Whitney U test** to compare the distributions of two independent groups (**active vs. inactive** drugs) and determine which descriptor plays a key role in distinguishing its bioactivity. <br>  
+
+
 
