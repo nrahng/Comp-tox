@@ -10,7 +10,7 @@ The main goal of this project is to evaluate the chemical structures of MAO-A ta
 - **Categorized compounds** as **"active," "inactive," or "intermediate"** based on IC50 values. <br>  
 
 ### **Part 2: MAO_CDD_ML_Part_2_Exploratory_Data_Analysis_pynb.ipynb** <br>  
-- **Conducted ADME analysis** (Absorption, Distribution, Metabolism, Excretion) using the RDKit toolkit by **Calculating Lipinski descriptors and pIC50 values** to compare and evaluate the pharmacokinetic properties of active and inactive MAO-A targeting drugs. <br>  
+- **Conducted ADME analysis** (Absorption, Distribution, Metabolism, Excretion) using the RDKit toolkit by **calculating Lipinski descriptors and pIC50 values** to compare and evaluate the pharmacokinetic properties of active and inactive MAO-A targeting drugs. <br>  
 - **Used the Mann-Whitney U test** to compare the distributions of two independent groups (**active vs. inactive** drugs) and determine which descriptor plays a key role in distinguishing its bioactivity. <br>  
 
 
