@@ -13,5 +13,6 @@ The main goal of this project is to evaluate the chemical structures of MAO-A ta
 - **Conducted ADME analysis** (Absorption, Distribution, Metabolism, Excretion) using the RDKit toolkit by **calculating Lipinski descriptors and pIC50 values** to compare and evaluate the pharmacokinetic properties of active and inactive MAO-A targeting drugs. <br>  
 - **Used the Mann-Whitney U test** to compare the distributions of two independent groups (**active vs. inactive** drugs) and determine which descriptor plays a key role in distinguishing its bioactivity. <br>  
 
+### **Part 3: MAO CDD-ML-Part-3-Descriptor-Dataset-Preparation.ipynb** <br>  
 
 
