@@ -1,7 +1,5 @@
 ---
 title: "Exploring Inhalation Toxicity of Chemical Compounds"
-author: "Dylann Yavorski, Norah Nguyen"
-date: "04/05/2025"
 output:
   pdf_document:
     number_sections: true
